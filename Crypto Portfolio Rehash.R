@@ -4,7 +4,7 @@ library(plotly) #to create interactive charts
 library(timetk) #to manipulate the data series
 library(forcats) #to manipulate categorical variables
 
-#Lets download the price data for Bitcoin, Monero, Decentraland
+#Lets download the price data for Bitcoin, Monero, Decentraland, & Cardano
 #CRITERIA:
 ## Lowest four inflation rates that are...
   ### Proof of work (preferred), or proof of stake
